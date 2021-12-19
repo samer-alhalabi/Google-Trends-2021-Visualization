@@ -4,3 +4,5 @@ Google Trends is a free tool that analyzes a sample of Google web searches to de
 
 ![image](2021_Google_Trends.jpg)
 
+## Source: Based on data from Google Trends 
+
